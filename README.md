@@ -4,7 +4,6 @@
 <br/>
 
 [![](https://github.com/qtc-de/rpv-ghidra/actions/workflows/build.yml/badge.svg?branch=main)](https://github.com/qtc-de/rpv-ghidra/actions/workflows/build.yml)
-[![](https://github.com/qtc-de/rpv-ghidra/actions/workflows/build.yml/badge.svg?branch=dev)](https://github.com/qtc-de/rpv-ghidra/actions/workflows/build.yml)
 [![](https://img.shields.io/badge/version-1.0.0-blue)](https://github.com/qtc-de/rpv-ghidra/releases)
 [![](https://img.shields.io/badge/language-v%20%26%20vue-blue)](https://vlang.io/)
 [![](https://img.shields.io/badge/license-GPL%20v3.0-blue)](https://github.com/qtc-de/rpv-ghidra/blob/master/LICENSE)
