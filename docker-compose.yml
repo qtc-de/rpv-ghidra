@@ -1,0 +1,12 @@
+services:
+    extension-builder:
+      image: 'docker.io/library/gradle:8.13.0-jdk21-alpine'
+      environment:
+        - GHIDRA_INSTALL_DIR=/home/gradle/ghidra
+      volumes: 
+        - ./rpv-ghidra:/home/gradle/rpv-ghidra:z
+        - ./ghidra:/home/gradle/ghidra:z
+      working_dir: /home/gradle/rpv-ghidra
+      command:
+        - gradle
+        - buildExtension
