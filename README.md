@@ -15,7 +15,7 @@ between them. In theory, the extension also applies function signatures and adds
 within the decompiled IDL data from the snapshot. However, this feature is currently buggy and I have no
 idea why it does not work. Pull requests are welcome :)
 
-![rpv-ghidra](TODO)
+![rpv-ghidra](https://github.com/user-attachments/assets/e2dd9be3-3f8e-4d7c-9b9a-3cb490d63b60)
 
 
 ### Installation
