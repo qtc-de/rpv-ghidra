@@ -46,5 +46,5 @@ jobs:
       - name: Archive rpv-ghidra
         uses: actions/upload-artifact@v4
         with:
-          name: rpv-ghidra
+          name: rpv-ghidra-build
           path: rpv-ghidra.zip
