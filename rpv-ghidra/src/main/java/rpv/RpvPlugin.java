@@ -41,8 +41,8 @@ import rpv.objects.RpvSnapshot;
     packageName = "RpvGhidraPlugin",
     category = PluginCategoryNames.NAVIGATION,
     shortDescription = "Import rpv-web snapshots and jump between RPC methods.",
-    description = "RPV Ghidra allows importing rpv-web snapshots into Ghidra. Once imported,"
-                + "available RPC interfaces for a program are displayed within a separate pane"
+    description = "RPV Ghidra allows importing rpv-web snapshots into Ghidra. Once imported, "
+                + "available RPC interfaces for a program are displayed within a separate pane "
                 + "making it easy to jump between the available RPC methods."
 )
 //@formatter:on
